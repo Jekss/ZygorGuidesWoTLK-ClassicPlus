@@ -10827,22 +10827,12 @@ startlevel 77
 			.' Feed 18 Hungering Plaguehounds|q 13169/1
 			.info Use the "Feed Hungering Plaguehound" ability on Hungering Plaguehounds.
 			.info They look like demon dogs.
-			.info You can find them all around the Weeping Quarry area.
-			.' You can find more around|at 37.67,41.04
-		step
-			goto Icecrown,40.57,32.49
 			.' Assassinate 20 Restless Lookouts|q 13170/1
 			.info Use the "Assassinate Restless Lookout" ability on Restless Lookouts, when you are behind them.
 			.info They look like ghouls.
-			.info You can find them all around the Weeping Quarry area.
-			.' You can find more around|at 37.67,41.04
-		step
-			goto Icecrown,40.57,32.49
 			.' Banish 10 Scourge Crystals|q 13171/1
 			.info Use the "Banish Scourge Crystal" ability on Scourge Crystals.
 			.info They look like large purple crystals floating above stone pillars.
-			.info You can find them all around the Weeping Quarry area.
-			.' You can find more around|at 37.67,41.04
 		step
 			.' Release the Eidolon Watcher |outvehicle |q 13169
 			.info Click the red arrow on your action bar.
