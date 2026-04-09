@@ -10833,6 +10833,7 @@ startlevel 77
 			.' Banish 10 Scourge Crystals|q 13171/1
 			.info Use the "Banish Scourge Crystal" ability on Scourge Crystals.
 			.info They look like large purple crystals floating above stone pillars.
+			.' You can find more around|at 37.67,41.04
 		step
 			.' Release the Eidolon Watcher |outvehicle |q 13169
 			.info Click the red arrow on your action bar.
